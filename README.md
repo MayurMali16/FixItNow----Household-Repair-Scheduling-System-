@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# FixItNow---Household-repair-Scheduling-System
+add technologies also   The Household Repair Scheduling System is a full-stack web application for booking small-scale household services. It's built with a ReactJS and Redux frontend, with Spring Boot handling core backend services and ASP.NET Core for secure payments.
+>>>>>>> 0bd35ab2299bee8f893352803191a78319c34966
